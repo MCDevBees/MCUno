@@ -1,0 +1,4 @@
+name: MCUno
+version: ${project.version}
+main: io.mcdevbees.mcuno.MCUno
+api-version: 1.15
