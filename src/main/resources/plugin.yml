@@ -1,4 +1,4 @@
 name: MCUno
 version: ${project.version}
-main: io.mcdevbees.mcuno.MCUno
+main: io.mcdevbees.mcuno.main.MCUno.main
 api-version: 1.15

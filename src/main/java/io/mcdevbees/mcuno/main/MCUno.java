@@ -1,4 +1,4 @@
-package io.mcdevbees.mcuno;
+package io.mcdevbees.mcuno.main;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
