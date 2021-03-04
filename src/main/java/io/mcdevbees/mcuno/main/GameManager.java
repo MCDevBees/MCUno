@@ -19,7 +19,7 @@ public class GameManager {
         int origCode = code;
         while(games.containsKey(code)) {
             code++;
-            if(code > 456976) {
+            if(code >= 456976) {
                 code = 0;
             }
             if(code == origCode) {
